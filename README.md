@@ -5,5 +5,5 @@ password: teacher@123
 
 ###Student Logins
 
-Username : Student
-password: Student@123
+Username : student
+password: student@123
