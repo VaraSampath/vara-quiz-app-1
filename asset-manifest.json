@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/vara-quiz-app-1/static/css/main.5e1508de.chunk.css",
+    "main.js": "/vara-quiz-app-1/static/js/main.2a2d133e.chunk.js",
+    "main.js.map": "/vara-quiz-app-1/static/js/main.2a2d133e.chunk.js.map",
+    "runtime-main.js": "/vara-quiz-app-1/static/js/runtime-main.3dfb8adf.js",
+    "runtime-main.js.map": "/vara-quiz-app-1/static/js/runtime-main.3dfb8adf.js.map",
+    "static/js/2.6b19fc61.chunk.js": "/vara-quiz-app-1/static/js/2.6b19fc61.chunk.js",
+    "static/js/2.6b19fc61.chunk.js.map": "/vara-quiz-app-1/static/js/2.6b19fc61.chunk.js.map",
+    "index.html": "/vara-quiz-app-1/index.html",
+    "static/css/main.5e1508de.chunk.css.map": "/vara-quiz-app-1/static/css/main.5e1508de.chunk.css.map",
+    "static/js/2.6b19fc61.chunk.js.LICENSE.txt": "/vara-quiz-app-1/static/js/2.6b19fc61.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dfb8adf.js",
+    "static/js/2.6b19fc61.chunk.js",
+    "static/css/main.5e1508de.chunk.css",
+    "static/js/main.2a2d133e.chunk.js"
+  ]
+}
